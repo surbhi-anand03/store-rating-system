@@ -95,4 +95,25 @@ cd store-rating-system
 - Email: owner@gmail.com  
 - Password: Password@1  
 
+# 📸 Screenshots
 
+## 🔐 Login
+![Login](./screenshots/login.png)
+
+## 📝 Register
+![Register](./screenshots/register.png)
+
+## 👨‍💼 Admin Dashboard
+![Admin Dashboard](./screenshots/Admin-Dashboard.png)
+
+## 👥 Admin Users
+![Users](./screenshots/admin-users.png)
+
+## 🏪 Admin Stores
+![Stores](./screenshots/admin-stores.png)
+
+## 👤 User Page
+![User](./screenshots/user-page.png)
+
+## 🏪 Owner Dashboard
+![Owner](./screenshots/owner-dashboard.png)
